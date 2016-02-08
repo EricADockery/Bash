@@ -1,5 +1,5 @@
 #!/bin/sh
 
 echo "What is your name?"
-read Person
-echo "Hello, $Person"
+read PERSON
+echo "Hello, $PERSON"
